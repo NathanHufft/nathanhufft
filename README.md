@@ -69,7 +69,7 @@ That background gives me a practical approach to building technology: solving op
 
 - Website: https://m80ai.com
 - Company GitHub: https://github.com/M80AI
-- LinkedIn: (coming soon)
+- LinkedIn: https://www.linkedin.com/in/nathan-hufft
 
 ---
 
