@@ -7,7 +7,7 @@ I build software that solves real business problems using AI, automation, and mo
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 ### Nextset AI
 AI receptionist and lead intake platform for service businesses.
@@ -23,7 +23,7 @@ Experimental compression research focused on AI and data efficiency.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - AI Agents & Automation
 - Applied AI Implementation
